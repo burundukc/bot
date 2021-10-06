@@ -1,1 +1,1 @@
-web: gunicorn v1.py
+web: gunicorn --chdir C:\Users\burun\bot1\src v1.py
