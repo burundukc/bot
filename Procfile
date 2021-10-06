@@ -1,1 +1,1 @@
-web: gunicorn creedomeeting.wsgi --log-file -
+web: gunicorn bot1.wsgi --log-file -
