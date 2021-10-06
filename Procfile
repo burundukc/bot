@@ -1,1 +1,1 @@
-web: ./creedomeeting
+web: ./bot1
